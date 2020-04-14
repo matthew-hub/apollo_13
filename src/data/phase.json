@@ -1,0 +1,40 @@
+{
+  "phases": [
+    {
+      "id": 0,
+      "phase": "1",
+      "additional": "Launch: 1:13 p.m ET April 11, 1970.",
+      "description": "The crew sits inside the command module as the Saturn V rocket takes off. The first two stages of the rocket fall back to Earth as the fuel burns up."
+    },
+    {
+      "id": 1,
+      "phase": "2",
+      "additional": false,
+      "description": "As Apollo 13 reaches Earth's orbit, it is still attached to the S-IVB. After 2 hours, the S-IVB's engines propell the spacecraft out of orbit and on course to the moon."
+    },
+    {
+      "id": 2,
+      "phase": "3",
+      "additional": "Explosion: 10:07 p.m. ET April 13, 1970.",
+      "description": "Apollo 13 uses the remaining part of the Saturn V rocket to propel itself toward the moon. The crew detaches the Lunar Module from the back of the Service Module and docks it to the front, allowing them to crawl between the two. The explosion occurs within the Service Module, so they use the Lunar Module as their 'lifeboat.'"
+    },
+    {
+      "id": 3,
+      "phase": "4",
+      "additional": false,
+      "description": "The Apollo 13 crew spends most of their journey home in the Lunar Module due to the explosion."
+    },
+    {
+      "id": 4,
+      "phase": "5",
+      "additional": false,
+      "description": "Before reentering the atmosphere, the crew moves back to the Command Module. They dump the Lunar Module (which never made it to the moon) along with the Service Module."
+    },
+    {
+      "id": 5,
+      "phase": "6",
+      "additional": "Spash Down: 1:07 p.m. ET April 17, 1970.",
+      "description": "After 6 intense days, the crew of Apollo 13 finally splashes down in the South Pacific Ocean."
+    }
+  ]
+}
