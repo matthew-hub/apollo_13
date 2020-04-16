@@ -107,6 +107,7 @@ export default {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: fill auto auto;
     grid-column-gap: 50px;
+    padding-top: 30px;
   }
 
   &__left,
