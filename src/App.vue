@@ -2,7 +2,7 @@
   <div id="app">
     <div id="wrapper">
       <Header />
-      <Main v-bind:phases="phasesData"  v-bind:facts="factsData"/>
+      <Main v-bind:phases="phasesData" v-bind:facts="factsData" />
       <Footer />
     </div>
   </div>
@@ -72,10 +72,8 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   width: 100%;
-  height: 100%;
-  // text-align: center;
-  // color: #2c3e50;
-  // margin-top: 60px;
+  min-height: 100%;
+  background-color: #f7f7f7;
 }
 
 #wrapper {
@@ -83,15 +81,15 @@ html {
   width: 100%;
   min-width: 375px;
   min-height: 100%;
-  background-color: #f7f7f7;
   display: grid;
   grid-template-columns: 335px;
   grid-template-rows: auto;
   grid-row-gap: 50px;
   justify-self: center;
   justify-content: center;
-  // align-items: end;
-  // text-align: left;
-  // justify-items: center;
+
+  @media (min-width: 940px) {
+    grid-template-columns: 900px;
+  }
 }
 </style>
