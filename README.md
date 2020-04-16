@@ -1,24 +1,9 @@
-# apollo_13
-
+# Apollo 13 
+You can check it out live [here](https://matthew-hub.github.io/apollo_13/).
 ## Project setup
 ```
+git clone https://github.com/matthew-hub/apollo_13.git
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
